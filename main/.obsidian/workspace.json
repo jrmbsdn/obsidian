@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSPy.md",
-                "mode": "preview",
+                "file": "TurboQuant_Analysis.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSPy"
+              "title": "TurboQuant_Analysis"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "eee86aa2bac1c41b",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Agent Mode"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 771.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,6 +183,11 @@
   },
   "active": "bf88c74b0e59b467",
   "lastOpenFiles": [
+    "DSPy.pdf",
+    "TurboQuant_Analysis.md",
+    "DSPy Paper Report.md",
+    "TurboQuant.pdf",
+    "DSPy.md",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Skills",
     "gemini-scribe/Prompts",
